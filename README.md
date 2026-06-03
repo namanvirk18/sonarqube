@@ -3,10 +3,12 @@
   <img
     alt="SonarQube logo"
     src="https://github.com/namanvirk18/sonarqube/raw/master/docs/sonarqube-claude.png"
-    width="230"
-    style="margin-bottom: -5px;"
+    width="250"
+    style="margin-bottom: -15px;"
   >
 </a>
+
+<br>
 
 <h3 style="margin-top: -10px; margin-bottom: 5px;">SonarQube plugin for Claude Code</h3>
 
@@ -20,9 +22,7 @@
   <img src="https://img.shields.io/badge/MCP-Server-orange.svg" alt="MCP Server">
 </a>
 
-<br>
-
-<p style="max-width: 900px; margin: 15px auto; text-align: center;">SonarQube plugin for Claude Code with real-time quality & security verification plus 450+ secret detection.</p>
+<p style="max-width: 900px; margin: 5px auto; text-align: center;">SonarQube plugin for Claude Code with real-time quality & security verification plus 450+ secret detection.</p>
 
 </div>
 
