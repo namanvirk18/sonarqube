@@ -1,10 +1,4 @@
-<style>
-.markdown-body {
-  padding-top: 0 !important;
-}
-</style>
-
-<div align="center">
+<div align="center" style="margin-top: -40px; padding-top: 0;">
 <a href="https://www.sonarsource.com">
   <img
     alt="SonarQube logo"
@@ -13,7 +7,6 @@
     style="margin: 0; padding: 0; display: block;"
   >
 </a>
-
 <h3 style="margin: -15px 0 10px 0; padding: 0;">SonarQube plugin for Claude Code</h3>
 
 <a href="https://docs.sonarsource.com/sonarqube/">
