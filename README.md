@@ -12,11 +12,11 @@
 
 <h3 style="margin-top: 0; margin-bottom: 5px;">SonarQube plugin for Claude Code</h3>
 
-<a href="https://www.apache.org/licenses/LICENSE-2.0">
-  <img src="https://img.shields.io/badge/License-LGPL--3.0-blue.svg" alt="License">
+<a href="https://docs.sonarsource.com/sonarqube/">
+  <img src="https://img.shields.io/badge/Documentation-Read-blue.svg" alt="Documentation">
 </a>
 <a href="https://community.sonarsource.com/">
-  <img src="https://img.shields.io/badge/Community-Join-5865F2?logo=discord&logoColor=white" alt="Community">
+  <img src="https://img.shields.io/badge/Community-Discord-5865F2?logo=discord&logoColor=white" alt="Community">
 </a>
 <a href="https://www.sonarsource.com/products/sonarqube/mcp-server/">
   <img src="https://img.shields.io/badge/MCP-Server-orange.svg" alt="MCP Server">
