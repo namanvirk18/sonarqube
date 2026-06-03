@@ -1,13 +1,15 @@
-<div align="center" style="margin-top: -32px;">
+<table align="center" cellpadding="0" cellspacing="0" style="border: 0; margin: 0; padding: 0;">
+<tr>
+<td align="center" style="border: 0; padding: 0;">
 <a href="https://www.sonarsource.com">
   <img
     alt="SonarQube logo"
     src="https://github.com/namanvirk18/sonarqube/raw/master/docs/sonarqube-claude.png"
     width="200"
+    style="display: block; margin: 0; padding: 0;"
   >
 </a>
-
-<h3 style="margin-top: -20px; margin-bottom: 10px; padding: 0;">SonarQube plugin for Claude Code</h3>
+<h3 style="margin: 5px 0 10px 0; padding: 0;">SonarQube plugin for Claude Code</h3>
 
 <a href="https://docs.sonarsource.com/sonarqube/">
   <img src="https://img.shields.io/badge/Documentation-Read-blue.svg" alt="Documentation">
@@ -20,8 +22,9 @@
 </a>
 
 <p style="margin: 10px auto;">SonarQube plugin for Claude Code with real-time quality & security verification plus 450+ secret detection.</p>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
