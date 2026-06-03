@@ -4,7 +4,7 @@
     alt="SonarQube logo"
     src="https://github.com/namanvirk18/sonarqube/raw/master/docs/sonarqube-claude.png"
     width="230"
-    style="margin-bottom: -15px;"
+    style="margin-bottom: -5px;"
   >
 </a>
 
@@ -23,7 +23,7 @@
 <br>
 
 
-<p style="max-width: 900px; margin: 15px auto; text-align: center;">SonarQube plugin for Claude Code enabling real-time code quality and security verification with 450+ secret pattern detection.</p>
+<p style="max-width: 900px; margin: 15px auto; text-align: center;">SonarQube plugin for Claude Code with real-time code quality, security verification, and 450+ secret pattern detection.</p>
 
 </div>
 
