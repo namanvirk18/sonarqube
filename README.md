@@ -1,13 +1,13 @@
-<div align="center">
+<div align="center" style="margin-top: -40px; padding-top: 0;">
 <a href="https://www.sonarsource.com">
   <img
     alt="SonarQube logo"
     src="https://github.com/namanvirk18/sonarqube/raw/master/docs/sonarqube-claude.png"
     width="200"
+    style="margin: 0; padding: 0; display: block;"
   >
 </a>
-
-<h3 style="margin: 2px 0 10px 0;">SonarQube plugin for Claude Code</h3>
+<h3 style="margin: -15px 0 10px 0; padding: 0;">SonarQube plugin for Claude Code</h3>
 
 <a href="https://docs.sonarsource.com/sonarqube/">
   <img src="https://img.shields.io/badge/Documentation-Read-blue.svg" alt="Documentation">
