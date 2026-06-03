@@ -23,6 +23,7 @@
 </a>
 
 <br>
+<br>
 
 <p style="max-width: 900px; margin: 15px auto; text-align: center;">SonarQube plugin for Claude Code enabling real-time code quality and security verification with 450+ secret pattern detection.</p>
 
