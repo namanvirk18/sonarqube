@@ -3,7 +3,7 @@
   <img
     alt="SonarQube logo"
     src="https://github.com/namanvirk18/sonarqube/raw/master/docs/sonarqube-claude.png"
-    width="200"
+    width="300"
   >
 </a>
 
