@@ -8,7 +8,7 @@
   >
 </a>
 
-<h3 style="margin-top: 0; margin-bottom: 5px;">SonarQube plugin for Claude Code</h3>
+<h3 style="margin-top: -10px; margin-bottom: 5px;">SonarQube plugin for Claude Code</h3>
 
 <a href="https://docs.sonarsource.com/sonarqube/">
   <img src="https://img.shields.io/badge/Documentation-Read-blue.svg" alt="Documentation">
